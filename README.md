@@ -1,3 +1,4 @@
+![https://mods.factorio.com/mod/one-health](https://img.shields.io/badge/dynamic/json.svg?label=downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Fone-health&query=%24.downloads_count&colorB=%23a87723) ![https://mods.factorio.com/mod/one-health](https://img.shields.io/badge/dynamic/json.svg?label=for&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Flone-health&query=%24.releases.*.info_json.factorio_version&colorB=%23a87723) ![https://mods.factorio.com/mod/one-health](https://img.shields.io/badge/dynamic/json.svg?label=version&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Fone-health&query=%24.releases%5B(%40.length-1)%5D.version&colorB=%23a87723)
 # [One Health](https://mods.factorio.com/mod/one-health)
 
 A factorio mod that makes all placed things start with one health so you have to construct them after building.
